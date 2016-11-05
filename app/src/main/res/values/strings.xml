@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomSheetDemo</string>
+    <string name="btn_bottom">bottomsheet</string>
+    <string name="txt_collection_title">收藏全部</string>
+    <string name="txt_play_title">收藏列表(%1$d)</string>
+    <string name="txt_clear_title">清空</string>
+</resources>
